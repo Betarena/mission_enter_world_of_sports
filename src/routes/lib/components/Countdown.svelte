@@ -1,6 +1,6 @@
 <!-- Typescript -->
 <script type="ts">
-
+  // countdown logic here
 </script>
 
 <!-- HTML goes HERE -->
